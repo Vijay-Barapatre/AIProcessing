@@ -1,0 +1,52 @@
+================================================================
+  HOTKEY CAPTURE  —  SESSION SUMMARY
+================================================================
+  Label          : code
+  Folder         : session_20261110_084644_code
+  Folder path    : D:\jobsupport\hotkey_capture\AIProcessing\session_20261110_084644_code
+  Scroll folders : scroll_NNN_HHMMSS
+  Started        : 2026-11-10 08:46:59
+  Ended          : 2026-11-10 08:50:33
+  Duration       : 3m 34s
+  Monitor        : 1920x1080 at (0,-1080)
+  Capture scope  : FULL MONITOR
+  Window filter  : (none)
+  Target process : Zoom.exe
+  Target window  : Zoom Meeting
+  Scroll mode    : manual_pagedown
+  Scroll input   : mouse_wheel
+  Window area    : client
+  Scroll delay   : 2.5s
+  Scroll captures: 0
+  Single captures: 15
+  Total pages    : 0
+
+================================================================
+  CAPTURES
+================================================================
+  Single #001  |  single_001_20261110_084704.png
+  Single #002  |  single_002_20261110_084721.png
+  Single #003  |  single_003_20261110_084740.png
+  Single #004  |  single_004_20261110_084754.png
+  Single #005  |  single_005_20261110_084808.png
+  Single #006  |  single_006_20261110_084815.png
+  Single #007  |  single_007_20261110_084830.png
+  Single #008  |  single_008_20261110_084836.png
+  Single #009  |  single_009_20261110_084903.png
+  Single #010  |  single_010_20261110_084919.png
+  Single #011  |  single_011_20261110_084933.png
+  Single #012  |  single_012_20261110_084952.png
+  Single #013  |  single_013_20261110_085005.png
+  Single #014  |  single_014_20261110_085018.png
+  Single #015  |  single_015_20261110_085026.png
+
+================================================================
+  COMBINED SESSION IMAGE(S)
+================================================================
+  → combined_image_session_20261110_085028_part01of03.png
+  → combined_image_session_20261110_085028_part02of03.png
+  → combined_image_session_20261110_085028_part03of03.png
+
+  OCR extraction : disabled
+  Clipboard      : combined image copied (ready for AI tools)
+================================================================

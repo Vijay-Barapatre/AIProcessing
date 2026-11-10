@@ -1,0 +1,47 @@
+================================================================
+  HOTKEY CAPTURE  —  SESSION SUMMARY
+================================================================
+  Label          : code
+  Folder         : session_20261110_083059_code
+  Folder path    : D:\jobsupport\hotkey_capture\AIProcessing\session_20261110_083059_code
+  Scroll folders : scroll_NNN_HHMMSS
+  Started        : 2026-11-10 08:31:14
+  Ended          : 2026-11-10 08:33:59
+  Duration       : 2m 45s
+  Monitor        : Foreground Window
+  Capture scope  : ACTIVE WINDOW
+  Window filter  : (none)
+  Target process : Zoom.exe
+  Target window  : Zoom Meeting
+  Scroll mode    : manual_pagedown
+  Scroll input   : mouse_wheel
+  Window area    : client
+  Scroll delay   : 2.5s
+  Scroll captures: 3
+  Single captures: 0
+  Total pages    : 3
+
+================================================================
+  CAPTURES
+================================================================
+  Scroll #001  |  1 pages  |  AUTOMATIC (page_down)  |  Input:page_down  |  scroll_001_083128/
+    Target: Zoom.exe | Zoom Meeting
+    Profile: {'input_mode': 'page_down', 'fallback_input_mode': 'mouse_wheel', 'wheel_delta': 480, 'settle_time': 2.0, 'remote_viewer': True, 'app_family': 'remote_viewer', 'profile_source': 'user+default'}
+    → combined_image_scroll001_20261110_083128.png
+  Scroll #002  |  1 pages  |  MANUAL PAGEDOWN  |  Input:page_down  |  scroll_002_083207/
+    Target: Zoom.exe | Zoom Meeting
+    Profile: {'input_mode': 'page_down', 'fallback_input_mode': 'mouse_wheel', 'wheel_delta': 480, 'settle_time': 2.0, 'remote_viewer': True, 'app_family': 'remote_viewer', 'profile_source': 'user+default'}
+    → combined_image_scroll002_20261110_083207.png
+  Scroll #003  |  1 pages  |  MANUAL PAGEDOWN  |  Input:page_down  |  scroll_003_083256/
+    Target: Zoom.exe | Zoom Meeting
+    Profile: {'input_mode': 'page_down', 'fallback_input_mode': 'mouse_wheel', 'wheel_delta': 480, 'settle_time': 2.0, 'remote_viewer': True, 'app_family': 'remote_viewer', 'profile_source': 'user+default'}
+    → combined_image_scroll003_20261110_083256.png
+
+================================================================
+  COMBINED SESSION IMAGE(S)
+================================================================
+  → combined_image_session_20261110_083358.png
+
+  OCR extraction : disabled
+  Clipboard      : combined image copied (ready for AI tools)
+================================================================

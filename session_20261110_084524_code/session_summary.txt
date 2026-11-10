@@ -1,0 +1,36 @@
+================================================================
+  HOTKEY CAPTURE  —  SESSION SUMMARY
+================================================================
+  Label          : code
+  Folder         : session_20261110_084524_code
+  Folder path    : D:\jobsupport\hotkey_capture\AIProcessing\session_20261110_084524_code
+  Scroll folders : scroll_NNN_HHMMSS
+  Started        : 2026-11-10 08:46:27
+  Ended          : 2026-11-10 08:46:43
+  Duration       : 0m 16s
+  Monitor        : 1920x1080 at (0,-1080)
+  Capture scope  : FULL MONITOR
+  Window filter  : (none)
+  Target process : Zoom.exe
+  Target window  : Zoom Meeting
+  Scroll mode    : manual_pagedown
+  Scroll input   : mouse_wheel
+  Window area    : client
+  Scroll delay   : 2.5s
+  Scroll captures: 0
+  Single captures: 1
+  Total pages    : 0
+
+================================================================
+  CAPTURES
+================================================================
+  Single #001  |  single_001_20261110_084635.png
+
+================================================================
+  COMBINED SESSION IMAGE(S)
+================================================================
+  → combined_image_session_20261110_084643.png
+
+  OCR extraction : disabled
+  Clipboard      : combined image copied (ready for AI tools)
+================================================================
