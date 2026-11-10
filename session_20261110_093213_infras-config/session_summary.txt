@@ -1,0 +1,37 @@
+================================================================
+  HOTKEY CAPTURE  —  SESSION SUMMARY
+================================================================
+  Label          : infras-config
+  Folder         : session_20261110_093213_infras-config
+  Folder path    : D:\jobsupport\hotkey_capture\AIProcessing\session_20261110_093213_infras-config
+  Scroll folders : scroll_NNN_HHMMSS
+  Started        : 2026-11-10 09:32:50
+  Ended          : 2026-11-10 09:33:01
+  Duration       : 0m 11s
+  Monitor        : 1920x1200 at (0,0) [Primary]
+  Capture scope  : FULL MONITOR
+  Window filter  : (none)
+  Target process : (monitor-only)
+  Target window  : Waiting for application on selected monitor
+  Scroll mode    : manual_pagedown
+  Scroll input   : mouse_wheel
+  Window area    : client
+  Scroll delay   : 2.5s
+  Scroll captures: 0
+  Single captures: 2
+  Total pages    : 0
+
+================================================================
+  CAPTURES
+================================================================
+  Single #001  |  single_001_20261110_093251.png
+  Single #002  |  single_002_20261110_093258.png
+
+================================================================
+  COMBINED SESSION IMAGE(S)
+================================================================
+  → combined_image_session_20261110_093300.png
+
+  OCR extraction : disabled
+  Clipboard      : combined image copied (ready for AI tools)
+================================================================
