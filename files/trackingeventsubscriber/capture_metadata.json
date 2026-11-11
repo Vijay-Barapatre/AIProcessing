@@ -1,0 +1,86 @@
+{
+  "file_name": "trackingeventsubscriber.cs",
+  "directory": "files/trackingeventsubscriber",
+  "image": "files/trackingeventsubscriber/trackingeventsubscriber.png",
+  "pages_directory": "files/trackingeventsubscriber/pages",
+  "page_count": 6,
+  "image_width": 1129,
+  "image_height": 3311,
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 720,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 177,
+    "top": -945,
+    "width": 1129,
+    "height": 789
+  },
+  "scroll_input_region": {
+    "left": 177,
+    "top": -945,
+    "width": 1129,
+    "height": 789
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      475,
+      474,
+      474,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 475,
+        "scroll_shift_pixels": 314,
+        "confidence_error": 0.3188,
+        "edge_pixels": 43391,
+        "edge_mismatches": 13831
+      },
+      {
+        "transition": 2,
+        "matched": true,
+        "overlap_pixels": 474,
+        "scroll_shift_pixels": 315,
+        "confidence_error": 0.2776,
+        "edge_pixels": 53149,
+        "edge_mismatches": 14754
+      },
+      {
+        "transition": 3,
+        "matched": true,
+        "overlap_pixels": 474,
+        "scroll_shift_pixels": 315,
+        "confidence_error": 0.274,
+        "edge_pixels": 44623,
+        "edge_mismatches": 12226
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3851,
+        "edge_pixels": 32860
+      },
+      {
+        "transition": 5,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.828,
+        "edge_pixels": 35621
+      }
+    ],
+    "unmatched_transitions": [
+      4,
+      5
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-11T09:05:13+05:30"
+}

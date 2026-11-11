@@ -1,0 +1,65 @@
+{
+  "file_name": "File003.cs",
+  "directory": "files/File003",
+  "image": "files/File003/File003.png",
+  "pages_directory": "files/File003/pages",
+  "page_count": 4,
+  "image_width": 1129,
+  "image_height": 3156,
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 600,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 177,
+    "top": -945,
+    "width": 1129,
+    "height": 789
+  },
+  "scroll_input_region": {
+    "left": 177,
+    "top": -945,
+    "width": 1129,
+    "height": 789
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4318,
+        "edge_pixels": 29419
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.7149,
+        "edge_pixels": 15243
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6064,
+        "edge_pixels": 17803
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2,
+      3
+    ]
+  },
+  "scroll_delay_seconds": 2.0,
+  "status": "complete",
+  "captured_at": "2026-11-11T08:58:09+05:30"
+}
