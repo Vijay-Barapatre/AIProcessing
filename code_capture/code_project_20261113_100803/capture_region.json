@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locked_at": "2026-11-13T10:08:26+05:30",
+  "coordinate_space": "absolute_virtual_desktop_pixels",
+  "capture_mode": "editor_region",
+  "region": {
+    "left": 115,
+    "top": -883,
+    "width": 1217,
+    "height": 741
+  },
+  "input_region": {
+    "left": 115,
+    "top": -883,
+    "width": 1217,
+    "height": 741
+  },
+  "monitor": {
+    "left": 0,
+    "top": -1080,
+    "width": 1920,
+    "height": 1080
+  },
+  "monitor_relative_region": {
+    "left": 115,
+    "top": 197,
+    "width": 1217,
+    "height": 741
+  },
+  "monitor_relative_input_region": {
+    "left": 115,
+    "top": 197,
+    "width": 1217,
+    "height": 741
+  }
+}
