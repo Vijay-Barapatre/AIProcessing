@@ -432,6 +432,53 @@
       "scroll_delay_seconds": 0.25,
       "status": "complete",
       "captured_at": "2026-11-23T10:14:26+05:30"
+    },
+    {
+      "file_name": "File003.cs",
+      "directory": "files/File003",
+      "image": "files/File003/File003.png",
+      "pages_directory": "files/File003/pages",
+      "page_count": 2,
+      "image_width": 1293,
+      "image_height": 1076,
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 720,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 306,
+        "top": -681,
+        "width": 1293,
+        "height": 538
+      },
+      "scroll_input_region": {
+        "left": 306,
+        "top": -681,
+        "width": 1293,
+        "height": 538
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          0
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.7018,
+            "edge_pixels": 1214
+          }
+        ],
+        "unmatched_transitions": [
+          1
+        ]
+      },
+      "scroll_delay_seconds": 0.25,
+      "status": "complete",
+      "captured_at": "2026-11-23T10:15:21+05:30"
     }
   ]
 }
