@@ -1,0 +1,218 @@
+{
+  "file_name": "File001.cs",
+  "directory": "files/File001",
+  "image": "files/File001/File001.png",
+  "pages_directory": "files/File001/pages",
+  "page_count": 20,
+  "image_width": 1591,
+  "image_height": 10810,
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 720,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 153,
+    "top": 322,
+    "width": 1591,
+    "height": 728
+  },
+  "scroll_input_region": {
+    "left": 153,
+    "top": 322,
+    "width": 1591,
+    "height": 728
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      417,
+      0,
+      417,
+      0,
+      417,
+      417,
+      0,
+      416,
+      0,
+      0,
+      0,
+      416,
+      417,
+      0,
+      0,
+      416,
+      417,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.3007,
+        "edge_pixels": 51676,
+        "edge_mismatches": 15539
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3653,
+        "edge_pixels": 27074
+      },
+      {
+        "transition": 3,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.3016,
+        "edge_pixels": 33764,
+        "edge_mismatches": 10183
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3254,
+        "edge_pixels": 21916
+      },
+      {
+        "transition": 5,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.2948,
+        "edge_pixels": 34069,
+        "edge_mismatches": 10043
+      },
+      {
+        "transition": 6,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.3195,
+        "edge_pixels": 31050,
+        "edge_mismatches": 9921
+      },
+      {
+        "transition": 7,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3586,
+        "edge_pixels": 24733
+      },
+      {
+        "transition": 8,
+        "matched": true,
+        "overlap_pixels": 416,
+        "scroll_shift_pixels": 312,
+        "confidence_error": 0.2457,
+        "edge_pixels": 36621,
+        "edge_mismatches": 8996
+      },
+      {
+        "transition": 9,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3758,
+        "edge_pixels": 22652
+      },
+      {
+        "transition": 10,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3627,
+        "edge_pixels": 21270
+      },
+      {
+        "transition": 11,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3651,
+        "edge_pixels": 22495
+      },
+      {
+        "transition": 12,
+        "matched": true,
+        "overlap_pixels": 416,
+        "scroll_shift_pixels": 312,
+        "confidence_error": 0.2934,
+        "edge_pixels": 30130,
+        "edge_mismatches": 8839
+      },
+      {
+        "transition": 13,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.2856,
+        "edge_pixels": 32049,
+        "edge_mismatches": 9154
+      },
+      {
+        "transition": 14,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3524,
+        "edge_pixels": 22851
+      },
+      {
+        "transition": 15,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3308,
+        "edge_pixels": 26008
+      },
+      {
+        "transition": 16,
+        "matched": true,
+        "overlap_pixels": 416,
+        "scroll_shift_pixels": 312,
+        "confidence_error": 0.281,
+        "edge_pixels": 29947,
+        "edge_mismatches": 8414
+      },
+      {
+        "transition": 17,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 311,
+        "confidence_error": 0.3024,
+        "edge_pixels": 30411,
+        "edge_mismatches": 9197
+      },
+      {
+        "transition": 18,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3531,
+        "edge_pixels": 22412
+      },
+      {
+        "transition": 19,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6266,
+        "edge_pixels": 8931
+      }
+    ],
+    "unmatched_transitions": [
+      2,
+      4,
+      7,
+      9,
+      10,
+      11,
+      14,
+      15,
+      18,
+      19
+    ]
+  },
+  "scroll_delay_seconds": 2.0,
+  "status": "complete",
+  "captured_at": "2026-11-24T09:44:10+05:30"
+}

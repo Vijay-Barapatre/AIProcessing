@@ -1,0 +1,75 @@
+{
+  "file_name": "File004.cs",
+  "directory": "files/File004",
+  "image": "files/File004/File004.png",
+  "pages_directory": "files/File004/pages",
+  "page_count": 5,
+  "image_width": 1591,
+  "image_height": 2913,
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 720,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 153,
+    "top": 322,
+    "width": 1591,
+    "height": 728
+  },
+  "scroll_input_region": {
+    "left": 153,
+    "top": 322,
+    "width": 1591,
+    "height": 728
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      727,
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 727,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3107,
+        "edge_pixels": 75905,
+        "edge_mismatches": 23586
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5027,
+        "edge_pixels": 45835
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6095,
+        "edge_pixels": 58342
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4627,
+        "edge_pixels": 36255
+      }
+    ],
+    "unmatched_transitions": [
+      2,
+      3,
+      4
+    ]
+  },
+  "scroll_delay_seconds": 0.25,
+  "status": "complete",
+  "captured_at": "2026-11-24T09:47:20+05:30"
+}
