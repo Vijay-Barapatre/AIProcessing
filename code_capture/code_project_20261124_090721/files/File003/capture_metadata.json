@@ -1,0 +1,86 @@
+{
+  "file_name": "File003.cs",
+  "directory": "files/File003",
+  "image": "files/File003/File003.png",
+  "pages_directory": "files/File003/pages",
+  "page_count": 6,
+  "image_width": 1483,
+  "image_height": 3493,
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 720,
+  "capture_mode": "full_monitor",
+  "capture_region": {
+    "left": 0,
+    "top": 0,
+    "width": 1920,
+    "height": 1200
+  },
+  "scroll_input_region": {
+    "left": 6,
+    "top": 174,
+    "width": 1483,
+    "height": 865
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      416,
+      864,
+      0,
+      417,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 416,
+        "scroll_shift_pixels": 449,
+        "confidence_error": 0.2893,
+        "edge_pixels": 34394,
+        "edge_mismatches": 9951
+      },
+      {
+        "transition": 2,
+        "matched": true,
+        "overlap_pixels": 864,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.311,
+        "edge_pixels": 85058,
+        "edge_mismatches": 26457
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3307,
+        "edge_pixels": 43370
+      },
+      {
+        "transition": 4,
+        "matched": true,
+        "overlap_pixels": 417,
+        "scroll_shift_pixels": 448,
+        "confidence_error": 0.2967,
+        "edge_pixels": 39142,
+        "edge_mismatches": 11612
+      },
+      {
+        "transition": 5,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.8247,
+        "edge_pixels": 43227
+      }
+    ],
+    "unmatched_transitions": [
+      3,
+      5
+    ]
+  },
+  "scroll_delay_seconds": 0.25,
+  "status": "complete",
+  "captured_at": "2026-11-24T09:10:15+05:30"
+}
