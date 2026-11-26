@@ -1,0 +1,66 @@
+{
+  "file_name": "Zoom_Meeting_20261126_205647.png",
+  "directory": "files/Zoom_Meeting_20261126_205647",
+  "image": "files/Zoom_Meeting_20261126_205647/Zoom_Meeting_20261126_205647.png",
+  "pages_directory": "files/Zoom_Meeting_20261126_205647/pages",
+  "page_count": 4,
+  "image_width": 1882,
+  "image_height": 3976,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "scroll_input_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4586,
+        "edge_pixels": 112968
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6493,
+        "edge_pixels": 57030
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.8206,
+        "edge_pixels": 87398
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2,
+      3
+    ]
+  },
+  "scroll_delay_seconds": 0.25,
+  "status": "complete",
+  "captured_at": "2026-11-26T20:56:54+05:30"
+}

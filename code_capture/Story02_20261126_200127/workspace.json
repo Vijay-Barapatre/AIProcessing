@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "application": "Hotkey Capture Code Capture Mode",
+  "app_version": "7.1-step6-code-stitch-integrity",
+  "created_at": "2026-11-26T20:01:27+05:30",
+  "project_name": "Story02",
+  "target": {
+    "hwnd": 723082,
+    "pid": 25648,
+    "process_name": "Zoom.exe",
+    "title": "Zoom Meeting"
+  },
+  "monitor": {
+    "index": 1,
+    "left": 0,
+    "top": 0,
+    "width": 1920,
+    "height": 1200
+  },
+  "capture_region": null,
+  "step": "region_selection",
+  "completed_files": []
+}

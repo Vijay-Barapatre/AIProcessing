@@ -1,0 +1,58 @@
+{
+  "file_name": "Zoom_Meeting_20261126_205244.png",
+  "directory": "files/Zoom_Meeting_20261126_205244",
+  "image": "files/Zoom_Meeting_20261126_205244/Zoom_Meeting_20261126_205244.png",
+  "pages_directory": "files/Zoom_Meeting_20261126_205244/pages",
+  "page_count": 3,
+  "image_width": 1882,
+  "image_height": 1989,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "scroll_input_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      993,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 993,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3154,
+        "edge_pixels": 65370,
+        "edge_mismatches": 20617
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.7343,
+        "edge_pixels": 62913
+      }
+    ],
+    "unmatched_transitions": [
+      2
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-26T20:52:49+05:30"
+}

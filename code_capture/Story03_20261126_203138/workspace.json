@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "application": "Hotkey Capture Code Capture Mode",
+  "app_version": "7.1-step6-code-stitch-integrity",
+  "created_at": "2026-11-26T20:31:38+05:30",
+  "project_name": "Story03",
+  "target": {
+    "title": "Zoom Meeting",
+    "process_name": "Zoom.exe",
+    "pid": 25648,
+    "hwnd": 723082
+  },
+  "monitor": {
+    "index": 1,
+    "left": 0,
+    "top": 0,
+    "width": 1920,
+    "height": 1200
+  },
+  "capture_region": {
+    "schema_version": 1,
+    "locked_at": "2026-11-26T20:32:08+05:30",
+    "coordinate_space": "absolute_virtual_desktop_pixels",
+    "capture_mode": "editor_region",
+    "region": {
+      "left": 3,
+      "top": 142,
+      "width": 1917,
+      "height": 1011
+    },
+    "input_region": {
+      "left": 3,
+      "top": 142,
+      "width": 1917,
+      "height": 1011
+    },
+    "monitor": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1200
+    },
+    "monitor_relative_region": {
+      "left": 3,
+      "top": 142,
+      "width": 1917,
+      "height": 1011
+    },
+    "monitor_relative_input_region": {
+      "left": 3,
+      "top": 142,
+      "width": 1917,
+      "height": 1011
+    }
+  },
+  "step": "files_captured",
+  "completed_files": [
+    {
+      "file_name": "Zoom_Meeting_20261126_203224.png",
+      "directory": "files/Zoom_Meeting_20261126_203224",
+      "image": "files/Zoom_Meeting_20261126_203224/Zoom_Meeting_20261126_203224.png",
+      "pages_directory": "files/Zoom_Meeting_20261126_203224/pages",
+      "page_count": 4,
+      "image_width": 1917,
+      "image_height": 4044,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 3,
+        "top": 142,
+        "width": 1917,
+        "height": 1011
+      },
+      "scroll_input_region": {
+        "left": 3,
+        "top": 142,
+        "width": 1917,
+        "height": 1011
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          0,
+          0,
+          0
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.3452,
+            "edge_pixels": 90227
+          },
+          {
+            "transition": 2,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.6855,
+            "edge_pixels": 49264
+          },
+          {
+            "transition": 3,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.3551,
+            "edge_pixels": 62057
+          }
+        ],
+        "unmatched_transitions": [
+          1,
+          2,
+          3
+        ]
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "complete",
+      "captured_at": "2026-11-26T20:32:34+05:30"
+    }
+  ]
+}

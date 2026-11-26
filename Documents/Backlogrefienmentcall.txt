@@ -1,0 +1,48 @@
+This was a backlog refinement meeting for the CDX V2 pipeline and the Message Tracking service. Your main task is the "Dispatch Received event" PBI. It's estimated at 3 points, it's ready to start, and it depends on the shared library in #16508.
+
+How the flow works
+
+	1.	The HL7 inbound service chain builds a message event object and publishes it to a Service Bus topic (working name: message-event).
+	2.	Two subscriptions listen on that topic:
+	•	Message Tracking receives every event.
+	•	Message Insights receives only the event types it filters for.
+	3.	A function app listener is triggered by the message and passes it to the service over gRPC. The function app → service gRPC link already exists, though it may need small changes. The new work is only the publishing side, in the inbound chain.
+
+Shared library (#16508)
+
+	•	It's a NuGet package, currently called MessageEventTools (the name may change).
+	•	It holds the shared message state constants.
+	•	It has a factory, something like CreateNewMessageEvent(state). The factory returns the base event shape with the state already set. You fill in the details and publish.
+	•	The current plan is a base method plus a separate method for each event type, each with its own required parameters. The library could also validate the details and, later, supply the topic name or version.
+	•	Event fields: correlation ID, state, event time and details. The field is called details, not "state message", and it can't be empty.
+
+PBIs discussed
+
+	•	Received (yours, ready): Dispatch it after the inbound chain saves the message to blob and the save succeeds, not before. Triggers tracking only. The PBI covers Received only; every other event gets its own PBI.
+	•	Validation Failed: There is no "Validated" state, because passing validation is a short in-between step. Only failure gets dispatched. Triggers tracking only. The work is approved but lower priority.
+	•	Processing: There's no state for it, so it isn't needed.
+	•	Recipient List: Triggers both tracking and insights, and it's the new trigger for Insights. The details field carries the recipient list. Only recipients who will actually get the message are tracked. It needs more refinement: it's still unclear whether to dispatch after recipients are resolved to actor IDs or after subscriptions are resolved, which also gives the actor-to-clinic link.
+	•	Queued / Delivered: These are harder because a message can have several recipients, so Delivered fires once per recipient. For now Delivered just means "reached the end of the chain", which you need to test tracking. Don't leave it that way for good.
+	•	New: Save validated message to blob: Keep saving the raw file on receive. After validation, also save the validated version with the right extension (.hl7, .cda.xml, FHIR .json). Acceptance criterion: the blob folder for each correlation ID holds both the raw and the validated file. It hasn't been estimated yet; Ty or Ben might take it.
+
+States currently in code
+
+Received, ValidationFailed, Filtered, RecipientRemoved, Unroutable, RecipientList, Routable, ConversionFailed, Queued, Pushed, Delivered, DeliveryFailed, Completed, and CompletedWithException.
+
+	•	Confluence has several pages that disagree with each other. One crossed out Recipient List by mistake; it is needed.
+	•	The names use dashes and spaces inconsistently.
+
+Other points
+
+	•	Insights should not depend on Tracking, because one service shouldn't rely on another. It listens to the events directly.
+	•	Known design debt: events and states are mixed together. Events should eventually be a separate list, and terminal states shouldn't be named after their reasons.
+	•	On estimates, the lead wants you to round up and finish everything in the sprint. If you finish early, take extra work from the next sprint.
+
+Your next steps
+
+	1.	Wait for #16508, or check on it. It's expected soon.
+	2.	Find the spot in the inbound chain right after the blob save succeeds.
+	3.	Use the factory to build a Received event and publish it to the topic.
+	4.	Next up: Validation Failed, then Recipient List once it's refined.
+
+The transcript was auto-generated and garbled in places, so check names and spellings like "Filtered", "MessageEventTools" and the PBI numbers against Azure DevOps.

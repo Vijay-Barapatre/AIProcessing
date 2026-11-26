@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-26T20:50:58+05:30",
+  "items": [
+    {
+      "key": "Zoom Meeting",
+      "label": "Zoom Meeting",
+      "folder": "",
+      "file": "Zoom Meeting",
+      "discovery": "title_fallback",
+      "status": "completed",
+      "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_2611_20261126_204801\\files\\Zoom_Meeting_20261126_205038\\Zoom_Meeting_20261126_205038_part01of02.png",
+      "reconstruction_status": "pending",
+      "reconstructed_file": "",
+      "completed_sections": [],
+      "error": ""
+    }
+  ]
+}

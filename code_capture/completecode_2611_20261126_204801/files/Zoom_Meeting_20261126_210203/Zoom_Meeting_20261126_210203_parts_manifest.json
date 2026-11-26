@@ -1,0 +1,38 @@
+{
+  "total_width": 1882,
+  "total_height": 24850,
+  "parts": [
+    {
+      "part": 1,
+      "file": "Zoom_Meeting_20261126_210203_part01of04.png",
+      "y_start": 0,
+      "y_end": 8000,
+      "width": 1882,
+      "height": 8000
+    },
+    {
+      "part": 2,
+      "file": "Zoom_Meeting_20261126_210203_part02of04.png",
+      "y_start": 7960,
+      "y_end": 15960,
+      "width": 1882,
+      "height": 8000
+    },
+    {
+      "part": 3,
+      "file": "Zoom_Meeting_20261126_210203_part03of04.png",
+      "y_start": 15920,
+      "y_end": 23920,
+      "width": 1882,
+      "height": 8000
+    },
+    {
+      "part": 4,
+      "file": "Zoom_Meeting_20261126_210203_part04of04.png",
+      "y_start": 23880,
+      "y_end": 24850,
+      "width": 1882,
+      "height": 970
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "file_name": "Zoom_Meeting_20261126_204931.png",
+  "directory": "files/Zoom_Meeting_20261126_204931",
+  "image": "files/Zoom_Meeting_20261126_204931/Zoom_Meeting_20261126_204931_part01of02.png",
+  "pages_directory": "files/Zoom_Meeting_20261126_204931/pages",
+  "page_count": 16,
+  "image_width": 1882,
+  "image_height": 14911,
+  "parts": [
+    "files/Zoom_Meeting_20261126_204931/Zoom_Meeting_20261126_204931_part01of02.png",
+    "files/Zoom_Meeting_20261126_204931/Zoom_Meeting_20261126_204931_part02of02.png"
+  ],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "scroll_input_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      993,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": true,
+        "overlap_pixels": 993,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.2635,
+        "edge_pixels": 91287,
+        "edge_mismatches": 24054
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4082,
+        "edge_pixels": 44721
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5722,
+        "edge_pixels": 30132
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.551,
+        "edge_pixels": 26223
+      },
+      {
+        "transition": 5,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4511,
+        "edge_pixels": 28189
+      },
+      {
+        "transition": 6,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4339,
+        "edge_pixels": 31612
+      },
+      {
+        "transition": 7,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4796,
+        "edge_pixels": 29488
+      },
+      {
+        "transition": 8,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4757,
+        "edge_pixels": 70238
+      },
+      {
+        "transition": 9,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4703,
+        "edge_pixels": 28716
+      },
+      {
+        "transition": 10,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4512,
+        "edge_pixels": 34861
+      },
+      {
+        "transition": 11,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5099,
+        "edge_pixels": 26650
+      },
+      {
+        "transition": 12,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4747,
+        "edge_pixels": 31963
+      },
+      {
+        "transition": 13,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4113,
+        "edge_pixels": 71146
+      },
+      {
+        "transition": 14,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5305,
+        "edge_pixels": 29292
+      },
+      {
+        "transition": 15,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6681,
+        "edge_pixels": 38580
+      }
+    ],
+    "unmatched_transitions": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-26T20:49:51+05:30"
+}

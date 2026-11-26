@@ -1,0 +1,168 @@
+{
+  "file_name": "Zoom_Meeting_20261126_212058.png",
+  "directory": "files/Zoom_Meeting_20261126_212058",
+  "image": "files/Zoom_Meeting_20261126_212058/Zoom_Meeting_20261126_212058_part01of02.png",
+  "pages_directory": "files/Zoom_Meeting_20261126_212058/pages",
+  "page_count": 15,
+  "image_width": 1882,
+  "image_height": 14910,
+  "parts": [
+    "files/Zoom_Meeting_20261126_212058/Zoom_Meeting_20261126_212058_part01of02.png",
+    "files/Zoom_Meeting_20261126_212058/Zoom_Meeting_20261126_212058_part02of02.png"
+  ],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "scroll_input_region": {
+    "left": 6,
+    "top": 80,
+    "width": 1882,
+    "height": 994
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4849,
+        "edge_pixels": 55800
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6507,
+        "edge_pixels": 34883
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6299,
+        "edge_pixels": 42495
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6214,
+        "edge_pixels": 105584
+      },
+      {
+        "transition": 5,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5576,
+        "edge_pixels": 40083
+      },
+      {
+        "transition": 6,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4863,
+        "edge_pixels": 47155
+      },
+      {
+        "transition": 7,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4742,
+        "edge_pixels": 96926
+      },
+      {
+        "transition": 8,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5702,
+        "edge_pixels": 108396
+      },
+      {
+        "transition": 9,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4976,
+        "edge_pixels": 47597
+      },
+      {
+        "transition": 10,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.556,
+        "edge_pixels": 38671
+      },
+      {
+        "transition": 11,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4903,
+        "edge_pixels": 44679
+      },
+      {
+        "transition": 12,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4921,
+        "edge_pixels": 44418
+      },
+      {
+        "transition": 13,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5148,
+        "edge_pixels": 42632
+      },
+      {
+        "transition": 14,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6151,
+        "edge_pixels": 74071
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "scroll_delay_seconds": 0.25,
+  "status": "complete",
+  "captured_at": "2026-11-26T21:21:19+05:30"
+}

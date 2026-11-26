@@ -1,0 +1,22 @@
+{
+  "total_width": 1882,
+  "total_height": 12922,
+  "parts": [
+    {
+      "part": 1,
+      "file": "Zoom_Meeting_20261126_205953_part01of02.png",
+      "y_start": 0,
+      "y_end": 8000,
+      "width": 1882,
+      "height": 8000
+    },
+    {
+      "part": 2,
+      "file": "Zoom_Meeting_20261126_205953_part02of02.png",
+      "y_start": 7960,
+      "y_end": 12922,
+      "width": 1882,
+      "height": 4962
+    }
+  ]
+}
