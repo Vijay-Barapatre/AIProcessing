@@ -1,0 +1,22 @@
+{
+  "total_width": 1706,
+  "total_height": 11740,
+  "parts": [
+    {
+      "part": 1,
+      "file": "CapturedFile_002_20261127_235701_part01of02.png",
+      "y_start": 0,
+      "y_end": 8000,
+      "width": 1706,
+      "height": 8000
+    },
+    {
+      "part": 2,
+      "file": "CapturedFile_002_20261127_235701_part02of02.png",
+      "y_start": 7960,
+      "y_end": 11740,
+      "width": 1706,
+      "height": 3780
+    }
+  ]
+}

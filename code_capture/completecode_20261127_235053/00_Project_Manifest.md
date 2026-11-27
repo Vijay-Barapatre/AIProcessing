@@ -5,7 +5,7 @@
 - Process: Zoom.exe
 - PID: 23468
 - Monitor: 2 (1920×1080) at (0, -1080)
-- Capture region: 483×901 at (1342, -1013) (monitor-relative: 1342, 67)
+- Capture region: 1706×903 at (97, -1010) (monitor-relative: 97, 70)
 
 ## Files captured
 
@@ -18,3 +18,7 @@ This manifest is maintained by Hotkey Capture. Screenshots represent visible sha
   - Image: `files/CapturedFile_001_20261127_235204/CapturedFile_001_20261127_235204_Part001.png`
   - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
   - Stitching: `code_edge_alignment_v1`; unmatched transitions: `1`
+- **CapturedFile_002_20261127_235701.png** — 14 viewport(s), 1706×11740 px, status: `complete`
+  - Image: `files/CapturedFile_002_20261127_235701/CapturedFile_002_20261127_235701_part01of02.png`
+  - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
+  - Stitching: `code_edge_alignment_v1`; unmatched transitions: `12`
