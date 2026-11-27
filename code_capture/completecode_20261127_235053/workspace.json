@@ -1276,6 +1276,107 @@
       "scroll_delay_seconds": 0.3,
       "status": "complete",
       "captured_at": "2026-11-28T00:06:29+05:30"
+    },
+    {
+      "file_name": "CapturedFile_014_20261128_000632.png",
+      "directory": "files/CapturedFile_014_20261128_000632",
+      "image": "files/CapturedFile_014_20261128_000632/CapturedFile_014_20261128_000632.png",
+      "pages_directory": "files/CapturedFile_014_20261128_000632/pages",
+      "page_count": 1,
+      "image_width": 1699,
+      "image_height": 914,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "scroll_input_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [],
+        "unmatched_transitions": []
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "partial_stopped_by_user",
+      "captured_at": "2026-11-28T00:06:33+05:30"
+    },
+    {
+      "file_name": "CapturedFile_015_20261128_000744.png",
+      "directory": "files/CapturedFile_015_20261128_000744",
+      "image": "files/CapturedFile_015_20261128_000744/CapturedFile_015_20261128_000744.png",
+      "pages_directory": "files/CapturedFile_015_20261128_000744/pages",
+      "page_count": 4,
+      "image_width": 1699,
+      "image_height": 3656,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "scroll_input_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          0,
+          0,
+          0
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.6471,
+            "edge_pixels": 52277
+          },
+          {
+            "transition": 2,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.7742,
+            "edge_pixels": 37283
+          },
+          {
+            "transition": 3,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.5107,
+            "edge_pixels": 34322
+          }
+        ],
+        "unmatched_transitions": [
+          1,
+          2,
+          3
+        ]
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "complete",
+      "captured_at": "2026-11-28T00:07:52+05:30"
     }
   ],
   "last_resumed_at": "2026-11-28T00:01:00+05:30"
