@@ -1,0 +1,76 @@
+{
+  "file_name": "CapturedFile_005_20261127_235803.png",
+  "directory": "files/CapturedFile_005_20261127_235803",
+  "image": "files/CapturedFile_005_20261127_235803/CapturedFile_005_20261127_235803.png",
+  "pages_directory": "files/CapturedFile_005_20261127_235803/pages",
+  "page_count": 5,
+  "image_width": 1706,
+  "image_height": 3613,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 97,
+    "top": -1010,
+    "width": 1706,
+    "height": 903
+  },
+  "scroll_input_region": {
+    "left": 97,
+    "top": -1010,
+    "width": 1706,
+    "height": 903
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      0,
+      902
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3953,
+        "edge_pixels": 37685
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.412,
+        "edge_pixels": 30952
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4664,
+        "edge_pixels": 29862
+      },
+      {
+        "transition": 4,
+        "matched": true,
+        "overlap_pixels": 902,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.2638,
+        "edge_pixels": 53185,
+        "edge_mismatches": 14031
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2,
+      3
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-27T23:58:14+05:30"
+}

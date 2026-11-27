@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T23:58:00+05:30",
+  "updated_at": "2026-11-27T23:58:14+05:30",
   "items": [
     {
       "key": "Zoom Meeting",
@@ -36,6 +36,19 @@
       "discovery": "title_and_tab_cycle",
       "status": "completed",
       "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_20261127_235053\\files\\CapturedFile_004_20261127_235744\\CapturedFile_004_20261127_235744_part01of02.png",
+      "reconstruction_status": "pending",
+      "reconstructed_file": "",
+      "completed_sections": [],
+      "error": ""
+    },
+    {
+      "key": "CapturedFile_004.png",
+      "label": "CapturedFile_004.png",
+      "folder": "",
+      "file": "CapturedFile_004.png",
+      "discovery": "title_and_tab_cycle",
+      "status": "completed",
+      "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_20261127_235053\\files\\CapturedFile_005_20261127_235803\\CapturedFile_005_20261127_235803.png",
       "reconstruction_status": "pending",
       "reconstructed_file": "",
       "completed_sections": [],
