@@ -1,0 +1,84 @@
+{
+  "file_name": "CapturedFile_057_20261128_005508.png",
+  "directory": "files/CapturedFile_057_20261128_005508",
+  "image": "files/CapturedFile_057_20261128_005508/CapturedFile_057_20261128_005508.png",
+  "pages_directory": "files/CapturedFile_057_20261128_005508/pages",
+  "page_count": 6,
+  "image_width": 1699,
+  "image_height": 5484,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "scroll_input_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5804,
+        "edge_pixels": 52622
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6345,
+        "edge_pixels": 54476
+      },
+      {
+        "transition": 3,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5977,
+        "edge_pixels": 47060
+      },
+      {
+        "transition": 4,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6087,
+        "edge_pixels": 44985
+      },
+      {
+        "transition": 5,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.5257,
+        "edge_pixels": 56232
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-28T00:55:21+05:30"
+}
