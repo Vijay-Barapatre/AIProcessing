@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T23:59:12+05:30",
+  "updated_at": "2026-11-27T23:59:31+05:30",
   "items": [
     {
       "key": "Zoom Meeting",
@@ -62,6 +62,45 @@
       "discovery": "title_and_tab_cycle",
       "status": "completed",
       "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_20261127_235053\\files\\CapturedFile_007_20261127_235835\\CapturedFile_007_20261127_235835_part01of03.png",
+      "reconstruction_status": "pending",
+      "reconstructed_file": "",
+      "completed_sections": [],
+      "error": ""
+    },
+    {
+      "key": "CapturedFile_006.png",
+      "label": "CapturedFile_006.png",
+      "folder": "",
+      "file": "CapturedFile_006.png",
+      "discovery": "title_and_tab_cycle",
+      "status": "completed",
+      "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_20261127_235053\\files\\CapturedFile_008_20261127_235915\\CapturedFile_008_20261127_235915.png",
+      "reconstruction_status": "pending",
+      "reconstructed_file": "",
+      "completed_sections": [],
+      "error": ""
+    },
+    {
+      "key": "CapturedFile_007.png",
+      "label": "CapturedFile_007.png",
+      "folder": "",
+      "file": "CapturedFile_007.png",
+      "discovery": "title_and_tab_cycle",
+      "status": "completed",
+      "output_file": "D:\\jobsupport\\hotkey_capture\\AIProcessing\\code_capture\\completecode_20261127_235053\\files\\CapturedFile_009_20261127_235922\\CapturedFile_009_20261127_235922.png",
+      "reconstruction_status": "pending",
+      "reconstructed_file": "",
+      "completed_sections": [],
+      "error": ""
+    },
+    {
+      "key": "CapturedFile_008.png",
+      "label": "CapturedFile_008.png",
+      "folder": "",
+      "file": "CapturedFile_008.png",
+      "discovery": "title_and_tab_cycle",
+      "status": "in_progress",
+      "output_file": "",
       "reconstruction_status": "pending",
       "reconstructed_file": "",
       "completed_sections": [],

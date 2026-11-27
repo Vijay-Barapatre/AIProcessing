@@ -1,0 +1,35 @@
+{
+  "file_name": "CapturedFile_008_20261127_235915.png",
+  "directory": "files/CapturedFile_008_20261127_235915",
+  "image": "files/CapturedFile_008_20261127_235915/CapturedFile_008_20261127_235915.png",
+  "pages_directory": "files/CapturedFile_008_20261127_235915/pages",
+  "page_count": 1,
+  "image_width": 1706,
+  "image_height": 903,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 97,
+    "top": -1010,
+    "width": 1706,
+    "height": 903
+  },
+  "scroll_input_region": {
+    "left": 97,
+    "top": -1010,
+    "width": 1706,
+    "height": 903
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [],
+    "unmatched_transitions": []
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "single_page_user_confirmed",
+  "captured_at": "2026-11-27T23:59:19+05:30"
+}
