@@ -1,0 +1,67 @@
+{
+  "file_name": "CapturedFile_031_20261128_003324.png",
+  "directory": "files/CapturedFile_031_20261128_003324",
+  "image": "files/CapturedFile_031_20261128_003324/CapturedFile_031_20261128_003324.png",
+  "pages_directory": "files/CapturedFile_031_20261128_003324/pages",
+  "page_count": 4,
+  "image_width": 1699,
+  "image_height": 2743,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "scroll_input_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      913
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6019,
+        "edge_pixels": 67391
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3688,
+        "edge_pixels": 44541
+      },
+      {
+        "transition": 3,
+        "matched": true,
+        "overlap_pixels": 913,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3188,
+        "edge_pixels": 41651,
+        "edge_mismatches": 13277
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-28T00:33:33+05:30"
+}
