@@ -3205,6 +3205,63 @@
       "scroll_delay_seconds": 0.3,
       "status": "complete",
       "captured_at": "2026-11-28T00:46:13+05:30"
+    },
+    {
+      "file_name": "CapturedFile_047_20261128_004620.png",
+      "directory": "files/CapturedFile_047_20261128_004620",
+      "image": "files/CapturedFile_047_20261128_004620/CapturedFile_047_20261128_004620.png",
+      "pages_directory": "files/CapturedFile_047_20261128_004620/pages",
+      "page_count": 3,
+      "image_width": 1699,
+      "image_height": 2742,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "scroll_input_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          0,
+          0
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.5929,
+            "edge_pixels": 96668
+          },
+          {
+            "transition": 2,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.5439,
+            "edge_pixels": 69966
+          }
+        ],
+        "unmatched_transitions": [
+          1,
+          2
+        ]
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "complete",
+      "captured_at": "2026-11-28T00:46:27+05:30"
     }
   ],
   "last_resumed_at": "2026-11-28T00:01:00+05:30"
