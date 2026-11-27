@@ -1,0 +1,87 @@
+{
+  "file_name": "CapturedFile_045_20261128_004507.png",
+  "directory": "files/CapturedFile_045_20261128_004507",
+  "image": "files/CapturedFile_045_20261128_004507/CapturedFile_045_20261128_004507.png",
+  "pages_directory": "files/CapturedFile_045_20261128_004507/pages",
+  "page_count": 6,
+  "image_width": 1699,
+  "image_height": 2745,
+  "parts": [],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "scroll_input_region": {
+    "left": 101,
+    "top": -1017,
+    "width": 1699,
+    "height": 914
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0,
+      0,
+      913,
+      913,
+      913
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.6398,
+        "edge_pixels": 93605
+      },
+      {
+        "transition": 2,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.4715,
+        "edge_pixels": 58192
+      },
+      {
+        "transition": 3,
+        "matched": true,
+        "overlap_pixels": 913,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3185,
+        "edge_pixels": 46059,
+        "edge_mismatches": 14672
+      },
+      {
+        "transition": 4,
+        "matched": true,
+        "overlap_pixels": 913,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3177,
+        "edge_pixels": 46021,
+        "edge_mismatches": 14619
+      },
+      {
+        "transition": 5,
+        "matched": true,
+        "overlap_pixels": 913,
+        "scroll_shift_pixels": 1,
+        "confidence_error": 0.3195,
+        "edge_pixels": 46085,
+        "edge_mismatches": 14725
+      }
+    ],
+    "unmatched_transitions": [
+      1,
+      2
+    ]
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-28T00:45:19+05:30"
+}
