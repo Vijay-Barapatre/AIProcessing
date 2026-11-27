@@ -19,20 +19,20 @@
   },
   "capture_region": {
     "schema_version": 1,
-    "locked_at": "2026-11-27T23:56:54+05:30",
+    "locked_at": "2026-11-28T00:05:15+05:30",
     "coordinate_space": "absolute_virtual_desktop_pixels",
     "capture_mode": "editor_region",
     "region": {
-      "left": 97,
-      "top": -1010,
-      "width": 1706,
-      "height": 903
+      "left": 101,
+      "top": -1017,
+      "width": 1699,
+      "height": 914
     },
     "input_region": {
-      "left": 97,
-      "top": -1010,
-      "width": 1706,
-      "height": 903
+      "left": 101,
+      "top": -1017,
+      "width": 1699,
+      "height": 914
     },
     "monitor": {
       "left": 0,
@@ -41,16 +41,16 @@
       "height": 1080
     },
     "monitor_relative_region": {
-      "left": 97,
-      "top": 70,
-      "width": 1706,
-      "height": 903
+      "left": 101,
+      "top": 63,
+      "width": 1699,
+      "height": 914
     },
     "monitor_relative_input_region": {
-      "left": 97,
-      "top": 70,
-      "width": 1706,
-      "height": 903
+      "left": 101,
+      "top": 63,
+      "width": 1699,
+      "height": 914
     }
   },
   "step": "files_captured",
@@ -1074,6 +1074,113 @@
       "scroll_delay_seconds": 0.3,
       "status": "complete",
       "captured_at": "2026-11-27T23:59:30+05:30"
+    },
+    {
+      "file_name": "CapturedFile_010_20261127_235933.png",
+      "directory": "files/CapturedFile_010_20261127_235933",
+      "image": "files/CapturedFile_010_20261127_235933/CapturedFile_010_20261127_235933.png",
+      "pages_directory": "files/CapturedFile_010_20261127_235933/pages",
+      "page_count": 3,
+      "image_width": 1706,
+      "image_height": 905,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 97,
+        "top": -1010,
+        "width": 1706,
+        "height": 903
+      },
+      "scroll_input_region": {
+        "left": 97,
+        "top": -1010,
+        "width": 1706,
+        "height": 903
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          902,
+          902
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": true,
+            "overlap_pixels": 902,
+            "scroll_shift_pixels": 1,
+            "confidence_error": 0.3016,
+            "edge_pixels": 72406,
+            "edge_mismatches": 21837
+          },
+          {
+            "transition": 2,
+            "matched": true,
+            "overlap_pixels": 902,
+            "scroll_shift_pixels": 1,
+            "confidence_error": 0.3016,
+            "edge_pixels": 72406,
+            "edge_mismatches": 21840
+          }
+        ],
+        "unmatched_transitions": []
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "complete",
+      "captured_at": "2026-11-27T23:59:40+05:30"
+    },
+    {
+      "file_name": "CapturedFile_011_20261128_000609.png",
+      "directory": "files/CapturedFile_011_20261128_000609",
+      "image": "files/CapturedFile_011_20261128_000609/CapturedFile_011_20261128_000609.png",
+      "pages_directory": "files/CapturedFile_011_20261128_000609/pages",
+      "page_count": 2,
+      "image_width": 1699,
+      "image_height": 1828,
+      "parts": [],
+      "scroll_mode": "mouse_wheel",
+      "fallback_mode": "page_down",
+      "wheel_delta": 960,
+      "capture_mode": "editor_region",
+      "capture_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "scroll_input_region": {
+        "left": 101,
+        "top": -1017,
+        "width": 1699,
+        "height": 914
+      },
+      "composite_scope": "scroll_input_region",
+      "stitching": {
+        "method": "code_edge_alignment_v1",
+        "overlaps_removed_pixels": [
+          0
+        ],
+        "transitions": [
+          {
+            "transition": 1,
+            "matched": false,
+            "reason": "low_alignment_confidence",
+            "confidence_error": 0.6065,
+            "edge_pixels": 60843
+          }
+        ],
+        "unmatched_transitions": [
+          1
+        ]
+      },
+      "scroll_delay_seconds": 0.3,
+      "status": "complete",
+      "captured_at": "2026-11-28T00:06:15+05:30"
     }
-  ]
+  ],
+  "last_resumed_at": "2026-11-28T00:01:00+05:30"
 }

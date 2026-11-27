@@ -5,7 +5,7 @@
 - Process: Zoom.exe
 - PID: 23468
 - Monitor: 2 (1920×1080) at (0, -1080)
-- Capture region: 1706×903 at (97, -1010) (monitor-relative: 97, 70)
+- Capture region: 1699×914 at (101, -1017) (monitor-relative: 101, 63)
 
 ## Files captured
 
@@ -48,5 +48,13 @@ This manifest is maintained by Hotkey Capture. Screenshots represent visible sha
   - Stitching: `code_edge_alignment_v1`; unmatched transitions: `0`
 - **CapturedFile_009_20261127_235922.png** — 2 viewport(s), 1706×1806 px, status: `complete`
   - Image: `files/CapturedFile_009_20261127_235922/CapturedFile_009_20261127_235922.png`
+  - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
+  - Stitching: `code_edge_alignment_v1`; unmatched transitions: `1`
+- **CapturedFile_010_20261127_235933.png** — 3 viewport(s), 1706×905 px, status: `complete`
+  - Image: `files/CapturedFile_010_20261127_235933/CapturedFile_010_20261127_235933.png`
+  - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
+  - Stitching: `code_edge_alignment_v1`; unmatched transitions: `0`
+- **CapturedFile_011_20261128_000609.png** — 2 viewport(s), 1699×1828 px, status: `complete`
+  - Image: `files/CapturedFile_011_20261128_000609/CapturedFile_011_20261128_000609.png`
   - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
   - Stitching: `code_edge_alignment_v1`; unmatched transitions: `1`
