@@ -1,0 +1,30 @@
+{
+  "total_width": 1706,
+  "total_height": 17158,
+  "parts": [
+    {
+      "part": 1,
+      "file": "CapturedFile_007_20261127_235835_part01of03.png",
+      "y_start": 0,
+      "y_end": 8000,
+      "width": 1706,
+      "height": 8000
+    },
+    {
+      "part": 2,
+      "file": "CapturedFile_007_20261127_235835_part02of03.png",
+      "y_start": 7960,
+      "y_end": 15960,
+      "width": 1706,
+      "height": 8000
+    },
+    {
+      "part": 3,
+      "file": "CapturedFile_007_20261127_235835_part03of03.png",
+      "y_start": 15920,
+      "y_end": 17158,
+      "width": 1706,
+      "height": 1238
+    }
+  ]
+}
