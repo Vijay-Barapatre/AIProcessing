@@ -1,0 +1,53 @@
+{
+  "file_name": "CapturedFile_001_20261127_235204.png",
+  "directory": "files/CapturedFile_001_20261127_235204",
+  "image": "files/CapturedFile_001_20261127_235204/CapturedFile_001_20261127_235204_Part001.png",
+  "pages_directory": "files/CapturedFile_001_20261127_235204/pages",
+  "page_count": 139,
+  "image_width": 483,
+  "image_height": 121879,
+  "parts": [
+    "files/CapturedFile_001_20261127_235204/CapturedFile_001_20261127_235204_Part001.png",
+    "files/CapturedFile_001_20261127_235204/CapturedFile_001_20261127_235204_Part002.png"
+  ],
+  "scroll_mode": "mouse_wheel",
+  "fallback_mode": "page_down",
+  "wheel_delta": 960,
+  "capture_mode": "editor_region",
+  "capture_region": {
+    "left": 1342,
+    "top": -1013,
+    "width": 483,
+    "height": 901
+  },
+  "scroll_input_region": {
+    "left": 1342,
+    "top": -1013,
+    "width": 483,
+    "height": 901
+  },
+  "composite_scope": "scroll_input_region",
+  "stitching": {
+    "method": "code_edge_alignment_v1",
+    "overlaps_removed_pixels": [
+      0
+    ],
+    "transitions": [
+      {
+        "transition": 1,
+        "matched": false,
+        "reason": "low_alignment_confidence",
+        "confidence_error": 0.3678,
+        "edge_pixels": 78826
+      }
+    ],
+    "unmatched_transitions": [
+      1
+    ],
+    "parts_count": 2,
+    "auto_split": true
+  },
+  "scroll_delay_seconds": 0.3,
+  "status": "complete",
+  "captured_at": "2026-11-27T23:53:47+05:30"
+}
