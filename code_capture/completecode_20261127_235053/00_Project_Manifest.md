@@ -202,3 +202,7 @@ This manifest is maintained by Hotkey Capture. Screenshots represent visible sha
   - Image: `files/CapturedFile_047_20261128_004620/CapturedFile_047_20261128_004620.png`
   - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
   - Stitching: `code_edge_alignment_v1`; unmatched transitions: `2`
+- **CapturedFile_048_20261128_004637.png** — 3 viewport(s), 1699×2742 px, status: `complete`
+  - Image: `files/CapturedFile_048_20261128_004637/CapturedFile_048_20261128_004637.png`
+  - Scroll: `mouse_wheel`; fallback: `page_down`; wheel amount: `960`; capture mode: `editor_region`
+  - Stitching: `code_edge_alignment_v1`; unmatched transitions: `2`
